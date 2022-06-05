@@ -16,9 +16,9 @@ jobs:
           # Token for the github API
           github_token: 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
           # Branch to track
-          head: master
+          head: main
           # Branch to keep updated
-          base: master
+          base: main
           # Merge method to use
           merge_method: merge
           # The title of the pull request
